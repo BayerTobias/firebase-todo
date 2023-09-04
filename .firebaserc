@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tbayerfirebasetodo": {
+      "hosting": {
+        "firebase-todo-list": [
+          "tbayerfirebasetodo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tbayerfirebasetodo"
+  }
+}
